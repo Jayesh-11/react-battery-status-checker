@@ -1,5 +1,5 @@
 {
-  "name": "@jayesh_11/useBatteryStatus",
+  "name": "@jayesh_11/use-battery-status",
   "version": "1.0.1",
   "description": "react hook to check battery status",
   "main": "./dist/cjs/index.js",
