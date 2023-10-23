@@ -6,7 +6,7 @@
   "module": "./dist/esm/index.js",
   "types": "./dist/esm/index.d.ts",
   "scripts": {
-    "build": "tsc && tsc --module commonjs --outDir dist/cjs"
+    "build": "rm -rfv dist jayesh_11-use-battery-status-1.0.1.tgz && tsc && tsc --module commonjs --outDir dist/cjs"
   },
   "keywords": [
     "battery",
